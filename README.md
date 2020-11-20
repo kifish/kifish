@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m an NLPer focusing on chatbots (response selection and response generation).
+
+
+[![kifish's github stats](https://github-readme-stats.vercel.app/api?username=kifish&hide=issues&show_icons=true)](https://github.com/kifish)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kifish&layout=compact)](https://github.com/kifish)
