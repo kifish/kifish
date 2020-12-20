@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m an NLPer focusing on chatbots (response selection and response generation).
-- 😄 A simple chatbot developed by me: 
+- 😄 A simple chatbot developed by me
 ![A simple chatbot developed by me](chatbot.png)
 
 
